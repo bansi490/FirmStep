@@ -1,2 +1,0 @@
-# FirmStep
-Firmstep Developer Test
